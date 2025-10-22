@@ -21,7 +21,7 @@ pip install -r requirements.txt
 3. **Run backend server**
 
 ```bash
-python api_server.py
+python predictive.py
 ```
 
 > Backend will run on `http://localhost:5000`

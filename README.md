@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Digital Twin System - Complete Setup Guide
 ## 2-DOF Robotic Arm Predictive Maintenance System
 
@@ -368,3 +369,6 @@ For questions or issues, check the troubleshooting section or create an issue in
 
 
 
+=======
+# DIGITAL-TWIN-PROJECT
+>>>>>>> 54a4bfe98827f312839ef09e235106fdd686e898

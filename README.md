@@ -1,4 +1,4 @@
-Got it! Here’s a **super simple README snippet** focusing **only on frontend and backend setup with dependencies**:
+
 
 ---
 
